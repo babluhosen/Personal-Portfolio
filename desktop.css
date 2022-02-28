@@ -1,0 +1,169 @@
+.col-1 {width: 4.33%;}
+.col-2{width: 10%;}
+.col-3 {width: 25.0%;}
+.col-4{width:33.33%;}
+.col-5{width: 30.66%;}
+.col-6{width: 32.66%;}
+.col-7{width: 44%;}
+.col-8{width: 45%;}
+.col-9{width: 50%;}
+.col-10{width: 60%;}
+.col-11{width: 70.%;}
+.col-12{width: 80%;}
+.col-13{width: 100%;}
+
+
+.nav-logo img{
+    border-radius: 100%;
+    width: 100px;
+    text-align: left;
+   padding: 1% 0px;
+}
+.navbar{
+    padding:2% 2%;
+    text-align: center;
+}
+
+.nav-heading h1{
+    font-size: 2.2rem;
+    text-align: left;
+    margin-top: px;
+    border-radius: 100px;
+}
+.navbar-menu{
+    flex-direction: row;
+    justify-content: flex-end;
+    padding: 0px 0px;
+    margin-top:0px 100px;
+}
+.navbar-menu a{
+    background-color: #075e66;
+    border: radius 100px;
+    margin: 10px 20px;
+    padding: 5px 5px;
+    text-align:start;
+}
+.navbar-menu a:hover{
+    background-color: gray;
+}
+/* fuloting clear*/
+.navbar ::after{
+    content: '';
+    display: table;
+    clear: both;}
+    .p-ex{
+        padding: 1% 0;
+    }
+   
+    .l .l-icon {
+        text-align: center;
+    }
+    .l:hover{
+        box-shadow: 0 4px 8px 5px rgb(6, 90, 116);
+    }
+    .l-icon img{
+        margin-top:5px;
+        border-radius: 100%;
+        width: 150px;
+        height: 160px;
+    }
+        .l-describ{
+            text-align: center;
+            font-size: medium;
+            font-family: 'Courier New', Courier, monospace;
+            color: white;
+        }
+        .l-describ{
+            list-style: none;
+            font-weight: bolder;
+            margin: 5px 5px;
+            position: relative;
+            text-transform: uppercase;
+        }
+        .l-ex{
+            padding: 1% 0;
+        }
+       
+        .f .f-icon {
+            text-align: center;
+        }
+        .f:hover{
+            box-shadow: 0 4px 8px 5px rgb(6, 90, 116);
+        }
+        .f-icon img{
+            margin-top:5px;
+            border-radius: 100%;
+            width: 150px;
+            height: 160px;
+        }
+           
+            .f-describ{
+                list-style: none;
+                font-weight: bolder;
+                margin: 5px 5px;
+                position: relative;
+                text-transform: uppercase;
+            }
+            .b-ex{
+                padding: 1% 0;
+            }
+           
+            .b .b-icon {
+                text-align: center;
+            }
+            .b:hover{
+                box-shadow: 0 4px 8px 5px rgb(6, 90, 116);
+            }
+            .b-icon img{
+                margin-top:5px;
+                border-radius: 100%;
+                width: 300px;
+                height: 350px;
+            }
+               
+                .b-describ{
+                    list-style: none;
+                    font-weight: bolder;
+                    margin: 5px 5px;
+                    position: relative;
+                    text-transform: uppercase;
+                }    
+                .u-x{
+                    padding: 1%;
+                }
+
+                .foter{
+                    margin-top:6px ;
+                    display: inline;
+                    display: block;
+                    margin: 20px 100px;
+                    font-size: 1rem;
+                    text-align: center;
+                    color: black;}
+       
+                  .btn-media .btn {
+                   position: relative;
+                   
+                  
+                }
+               
+                   
+              
+             
+                 .foter-menu a{
+                     display: inline;
+                     display: block;
+                     margin: 10px 100px;
+                     font-size: 1.2rem;
+                     text-align: center;
+                     color: black;
+                    
+                 }
+                 .foter-menu{
+                    display: inline;
+                    display: block;
+                    margin: 10px 100px;
+                    font-size: 1.2rem;
+                    text-align: center;
+                    color: black;
+                 }
